@@ -36,3 +36,6 @@ out/
 .env
 .env.*
 !.env.example
+
+# brag-slim skill output (videos, frames, stems)
+brag-output*/
